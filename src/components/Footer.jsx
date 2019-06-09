@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
 	return (
 		<footer>
-			Copyright &copy; 2019, Prashant Acharya 
+			Copyright &copy; 2019, Sagarmatha Engineering College 
 		</footer>
 	)
 }

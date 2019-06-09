@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Orbitron:700|Ubuntu|Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Ubuntu|Montserrat');
 @import url('https://use.fontawesome.com/releases/v5.7.0/css/all.css');
 * {
 	margin: 0;
@@ -6,15 +6,15 @@
 }
 
 html body {
-	background: #282a33;
+	background: #fbfbfb;
 	font-family: 'Montserrat', sans-serif;
-	color: #e4e3e3;
 	line-height: 1.5;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Orbitron', sans-serif;
-	font-weight: 300;
+	font-family: 'Roboto Slab', sans-serif;
+	font-weight: 900;
+	color: #105e7e;
 }
 
 hr {
@@ -28,12 +28,11 @@ hr {
 }
 
 .logo{
-	height: 60px;
+	height: 100px;
 }
 
 .author-info{
 	display: flex;
-	margin: 2rem 0 1rem 0;
 }
 
 .author-info .profile-pic {
@@ -44,8 +43,8 @@ hr {
 
 .author-info .text{
 	margin: 0 1rem;
-	font-size: 1.3rem;
-	color: #cccccc;
+	font-size: 1.1rem;
+	color: #105e7e;
 
 }
 
@@ -55,14 +54,15 @@ hr {
 }
 
 .author-info ul li {
-	margin: 10px;
+	margin: 10px 20px 10px 0px;
 }
 
 .author-info a{
-	color: #f18587;
+	color: #447489;
 }
+
 .author-info a:hover{
-	color: #f16063;
+	color: #105e7e;
 }
 
 .list-blogs {
@@ -72,7 +72,7 @@ hr {
 }
 
 .list-blogs a{
-	color: #ececec;
+	color: #105e7e;
 	text-decoration: none;
 }
 
@@ -82,50 +82,21 @@ hr {
 }
 
 .list-blogs p {
-	margin-top: 5px;
+	margin: 0.5rem 0 1rem 0;
 	line-height: 1.2;
-	color: #eeeeee;
-	text-shadow: 1px 1px #000000;
+	color: #474747;
 	font-size: 0.9rem;
 }
 
 .list-blogs .subtitle{
-	margin-bottom: 3px;
 	font-size: 1.1rem;
 }
 
 footer {
-	border-top: 1px solid #de7c7e;
-	color: #eeeeee;
+	border-top: 1px solid #105e7e;
+	color: #105e7e;
+	font-weight: 500;
 	padding-top: 10px;
-}
-
-.article-red{
-	background: linear-gradient(to top, #9e3a65,#ee4e51);
-}
-
-.article-blue{
-	background: #141E30;
-	background: -webkit-linear-gradient(to right, #243B55, #141E30);
-	background: linear-gradient(to right, #243B55, #141E30);
-}
-
-.article-grey {
-	background: #bdc3c7;
-	background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7); 
-	background: linear-gradient(to right, #2c3e50, #bdc3c7);
-}
-
-.article-orange {
-	background: #ff7e5f;
-	background: -webkit-linear-gradient(to right, #feb47b, #ff7e5f);
-	background: linear-gradient(to left, #feb47b, #ff7e5f);
-}
-
-.article-nepal{
-	background: #de6161;
-	background: -webkit-linear-gradient(to right, #4674fe, #de6161);
-	background: linear-gradient(to right, #4674fe, #de6161);
 }
 
 /* Blog Page */
@@ -148,16 +119,17 @@ footer {
 
 .blog h3{
 	font-size: 1.5rem;
+	margin-top: 2rem;
 }
 
 .blog a{
-	color: #f18587;
-	text-decoration: none;
+	color: #3b6374;;
+	text-decoration: underline;
 }
 .blog a:hover{
-	color: #f16063;
-	text-decoration: underline;
-	text-underline-position: bottom; 
+	color: #105e7e;
+	text-decoration: none;
+	font-weight: 500;
 }
 
 .blog-content{
@@ -193,7 +165,7 @@ footer {
 	.blog h1, h2, h3, h4, h5, h6{
 		margin: 5px 0px;
 	}
-	
+
 	.list-blogs h2{
 		font-size: 1.2rem;
 	}
@@ -201,7 +173,7 @@ footer {
 		margin: 15px 0px;
 		font-size: 1rem;
 	}
-	
+
 	.blog ul, .blog ol{
 		margin-bottom: 15px 0px;
 	}

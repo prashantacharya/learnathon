@@ -10,7 +10,7 @@ module.exports = {
 		{
 			resolve: 'gatsby-plugin-favicon',
 			options: {
-				logo: './src/static/favicon.png',
+				logo: './src/static/logo.png',
 				icons: {
 					android: true,
 					appleIcon: true,
@@ -39,7 +39,7 @@ module.exports = {
 					},
 					{
 						resolve: 'gatsby-remark-prismjs',
-						
+
 					}
 				]
 			}

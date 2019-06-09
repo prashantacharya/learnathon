@@ -3,6 +3,7 @@ title: "Using the useState hook"
 subtitle: "In this blog, I talk about creating statefull functional components with hooks."
 date: '2019-05-25'
 keywords: "react, react-hooks, hooks, state, components, functional components, useState"
+writer: 'Prashant Acharya'
 ---
 
 I tried react hooks and it's pretty awesome. With hooks, you can create functional components that can **store state**. It would not have been possible earlier. Hooks are a newer addition in the react library. They are included in the react 16.8 stable release.
@@ -176,4 +177,4 @@ And with that, our counter application is completed. Your output should look lik
 ![Hooks](./images/hooks.png)
 <br>
 ### Conclusion
-Thank you for reading the blog. The source code for the example can be found at this [link](https://github.com/Prashant-Acharya/hooks-counter) and if you want to learn more about react hooks, you could try exploring the official documentation [here](https://reactjs.org/docs/hooks-intro.html). 
+Thank you for reading the blog. The source code for the example can be found at this [link](https://github.com/Prashant-Acharya/hooks-counter) and if you want to learn more about react hooks, you could try exploring the official documentation [here](https://reactjs.org/docs/hooks-intro.html).

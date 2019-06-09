@@ -16,6 +16,7 @@ const IndexPage = () => {
 							title
 							subtitle
 							date(formatString: "Do MMMM, YYYY")
+							writer
 						}
 						timeToRead
 						fields{
@@ -27,18 +28,14 @@ const IndexPage = () => {
 		}
 	`)
 
-	const styles = ['article-red', 'article-blue', 'article-grey', 'article-orange', 'article-nepal']
 
 	return (
 		<Layout>
 			<Head title="Home"/>
 			{
 				data.allMarkdownRemark.edges.map(edge => {
-					let styleIndex = data.allMarkdownRemark.edges.indexOf(edge)
-					let style = styles[styleIndex % styles.length]
-
 					return (
-						<article className={`list-blogs ${style}`}>
+						<article className={`list-blogs`}>
 							<Link to={`/${edge.node.fields.slug}`}>
 								<h2>{edge.node.frontmatter.title}</h2>
 							</Link>
@@ -46,7 +43,8 @@ const IndexPage = () => {
 							<p><i className="far fa-calendar-alt">
 								</i>&nbsp;{edge.node.frontmatter.date} | &nbsp;
 								<i class="fas fa-stopwatch"></i>&nbsp;
-								{edge.node.timeToRead}min read
+								{edge.node.timeToRead}min read | &nbsp;
+								<i class="fas fa-user"></i> {edge.node.frontmatter.writer}
 							</p>
 						</article>
 					)

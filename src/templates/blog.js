@@ -11,6 +11,7 @@ export const query = graphql`
 				title
 				date(formatString: "Do MMMM, YYYY")
 				keywords
+				writer
 			}
 			html
 			timeToRead
@@ -21,7 +22,7 @@ export const query = graphql`
 const Blog = (props) => {
 		return (
 			<Layout>
-				<Head 
+				<Head
 					title={props.data.markdownRemark.frontmatter.title}
 					keywords={props.data.markdownRemark.frontmatter.keywords}
 				/>
@@ -29,7 +30,8 @@ const Blog = (props) => {
 					<h1>{props.data.markdownRemark.frontmatter.title}</h1>
 					<p>
 					<i className="far fa-calendar-alt"></i> {props.data.markdownRemark.frontmatter.date} |&nbsp;
-					<i class="fas fa-stopwatch"></i> {props.data.markdownRemark.timeToRead}min read
+					<i className="fas fa-stopwatch"></i> {props.data.markdownRemark.frontmatter.timeToRead}min read |&nbsp;
+					<i class="fas fa-pen-fancy"></i> written by {props.data.markdownRemark.frontmatter.writer}
 					</p>
 					<div className="blog-content" dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}></div>
 				</article>

@@ -1,3 +1,3 @@
-## My Personal Blog Website
+## Website for Sagarmatha Learnathon
 
-Visit now at [https://bigomega.dev](https://bigomega.dev)
+Register now at [this link](https://bit.ly/sagarmatha-learnathon)

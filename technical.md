@@ -5,23 +5,14 @@ date: '2019-06-11'
 keywords: "programming,Top 5 programming language,Python,Technical fields, Learnathon, Sagarmatha"
 writer: 'CR Poudyal'
 ---
-
-Hey, guys you all got the opportunities to learn something which will be helpfull to build your career or to move forward through **Sagarmatha Learnathon**
-I will thank our team to make a positive move towards development on particular stuffs
-
-" **Sagarmatha learnathon** " provides a wonderfull platform for the future developer to make some positive change to move on..
-
-Today on this particular blog you can learn about some tranding programming language around the world ,which one is good to start on
-, particularly it depends on you how you get it..
-***
   Before start talking about Programming Languages let me clarify:
 
-* Iím not arguing that any language is objectively better than any other.
+* I‚Äôm not arguing that any language is objectively better than any other.
 * I agree that developers should eventually learn more than one language.
 
 ##  Top 5 programming language for beginners to learn in 2019
 
-First you have to know about the **Ranking methods** , how programming language is being ranked in position ..
+first you have to know about the **Ranking methods** , how programming language is being ranked in position ..
   it is quite simple, it will be rank according to three major topic
 
 * **How Fast You learn**
@@ -34,13 +25,14 @@ Lets, get targeted the demand on particular topic which you are learning is quit
 Ask Yourself a question Though you are learning the tpoic is simple and easily understandable but the Globel market demand is declining day by day than after completing you can't even get job on particular field thats Why market demand is important..
 
 * **Productivity(Money)**
+
 If you become well qualify for particular field , you primary demand is 
 to earn money ,how to can convert your knowledge into income. You need to know about the income
 which people are getting on particular field which you are qualify for..
 
 Thats all three major topices determines the ranking of Programming language
 
-Letís dive right in with the first Programming Language:
+Let‚Äôs dive right in with the first Programming Language:
 
 **1. PYTHON**
 
@@ -53,12 +45,12 @@ Python is becoming one of the most popular programming language according to tod
 * Highest paid programming language in the world
 * Real world Programming Language
 * popular for AI , Machine learning ,Data science
-* Python products are YOUTUBE,INSTAGRAM Ö
+* Python products are YOUTUBE,INSTAGRAM ‚Ä¶
 
 **2. JAVASCRIPT**
 
-JavaScript is the most popular language according to **Stack OverFlow**. More than half of all developers use **JavaScript**. Itís vital to front-end development and increasingly relevant to back-end development.
- And itís rapidly expanding into areas like game development and the (IOT) Internet of things.
+JavaScript is the most popular language according to **Stack OverFlow**. More than half of all developers use **JavaScript**. It‚Äôs vital to front-end development and increasingly relevant to back-end development.
+ And it‚Äôs rapidly expanding into areas like game development and the (IOT) Internet of things.
 
 
  
@@ -68,7 +60,7 @@ JavaScript is the most popular language according to **Stack OverFlow**. More th
 
 **3. SWIFT**
 
-If you want to get into **IOS mobile development**, you should definitely consider **Swift** as a high-paid career path. Swift is a relatively new programming language released in 2014. Itís Appleís new language options for programming
+If you want to get into **IOS mobile development**, you should definitely consider **Swift** as a high-paid career path. Swift is a relatively new programming language released in 2014. It‚Äôs Apple‚Äôs new language options for programming
  native IOS and Mac-OS applications. Native apps have been found to outperform hybrid apps, and Sprite-Kit makes it even easier to build 2D games. 
 
 
@@ -76,13 +68,13 @@ If you want to get into **IOS mobile development**, you should definitely consid
 
 * Not easy for absolute beginner 
 * Suitable for IOS developer to start with
-* One of the C family product though name doesnít matches 
+* One of the C family product though name doesn‚Äôt matches 
 * Mostly popular in IOS developed country i.e America, European country
 * Applications are developed for iPhone , iPod and different IOS devices
 
 **4. JAVA**
 
-Java is arguably the most popular programming language youíve ever heard. It is a language created by mighty James Gosling from Sun MicroSystems in 1991. Thereís a great saying îwrite once run everywhereî capture one of the keys that make Java so valuable. Itís powerful JVM (Java Virtual Machine) which makes it cross-platform compatible.
+Java is arguably the most popular programming language you‚Äôve ever heard. It is a language created by mighty James Gosling from Sun MicroSystems in 1991. There‚Äôs a great saying ‚Äùwrite once run everywhere‚Äù capture one of the keys that make Java so valuable. It‚Äôs powerful JVM (Java Virtual Machine) which makes it cross-platform compatible.
 
 
 * Android Application can be made through it.
@@ -94,7 +86,7 @@ Java is arguably the most popular programming language youíve ever heard. It is 
 
 **5. C++**
 
-C++ is a highly efficient and flexible language, first created back in 1985. It has remained in high demand due to high performance, reliability, and variety of contexts you can use it in. Microsoft Windows and Google Chrome are the two of the most well-known projects created with C++, and indeed most of Amazonís website are written in C++.
+C++ is a highly efficient and flexible language, first created back in 1985. It has remained in high demand due to high performance, reliability, and variety of contexts you can use it in. Microsoft Windows and Google Chrome are the two of the most well-known projects created with C++, and indeed most of Amazon‚Äôs website are written in C++.
 
 
 * One of the C family product
@@ -104,41 +96,13 @@ C++ is a highly efficient and flexible language, first created back in 1985. It 
 * Developed to overcome drawback of **C programming**
 * **Unity** was developed through it
 
-A career with C++ involves developing desktop applications, especially performance-intensive tasks. Youíll find C++ in a wide range of applicationsñ from GUI application to 3D graphics for a game to real-time mathematical solutions.
+A career with C++ involves developing desktop applications, especially performance-intensive tasks. You‚Äôll find C++ in a wide range of applications‚Äì from GUI application to 3D graphics for a game to real-time mathematical solutions.
 
 #### Conclusion
 
 That concludes the list of top five programming languages you should consider learning in 2019. If you like what you read, share your knowledge with the community.
 
 If you need any help from me I will be always there for You just Mail me **crpoudyal@gmail.com**
-Thank you for being here and keep learningÖ
+Thank you for being here and keep learning‚Ä¶
 
 **" Though Your Career started as beginner but you need to work through market demand.. "**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

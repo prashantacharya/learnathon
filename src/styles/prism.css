@@ -125,3 +125,14 @@ pre[class*="language-"] {
 .token.inserted {
 	color: green;
 }
+
+.gatsby-highlight-code-line {
+	background-color: rgba(197, 197, 197, 0.288);
+	display: block;
+	width: 100%;
+	margin-right: -1em;
+	margin-left: -1em;
+	padding-right: 1em;
+	padding-left: 0.75em;
+	border-left: 0.25em solid #f99;
+  }
